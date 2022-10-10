@@ -1,6 +1,6 @@
 ![JOSM banner](https://raw.githubusercontent.com/JOSM/josm/master/nodist/images/logo/bannerhorizontal.jpg)
 
-**JOSM** is an extensible editor for [OpenStreetMap](https://www.openstreetmap.org/) (OSM) for [Java 8+](https://www.java.com/).
+**JOSM** is an extensible editor for [OpenStreetMap](https://www.openstreetmap.org/) (OSM) for [Java 8+](https://www.azul.com/downloads/?version=java-17-lts&package=jre-fx#download-openjdk).
 
 It supports loading GPX tracks, background imagery, and OSM data from local sources as well as from online sources and allows to edit the OSM data (nodes, ways, and relations) and their metadata tags.
 
